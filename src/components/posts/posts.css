@@ -1,0 +1,19 @@
+
+.photo-list {
+    width: 90%;
+    list-style: none;
+    margin: 20px auto;
+}
+ 
+.photo-item {
+    display: flex;
+    width: 300px;
+    box-shadow: 0 5px 10px rgb(170, 166, 166);
+    margin: 20px 0;
+}
+ 
+.photo-item img {
+    display: flex;
+    width: 100%;
+    border: 4px double rgb(248, 244, 244);
+}
